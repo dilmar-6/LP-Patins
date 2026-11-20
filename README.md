@@ -1,7 +1,7 @@
 # Snitap 🎿
 
 <p align="center">
-  <img src="assets/banner-a.png" alt="Banner do LP Snitap" width="900">
+  <img src="assetns/banner-a.png" alt="Banner do LP Snitap" width="900">
 </p>
 
 **Snitap** is a landing page concept for a roller skate brand, developed with a focus on CSS animations, visual presentation and front-end development fundamentals.
